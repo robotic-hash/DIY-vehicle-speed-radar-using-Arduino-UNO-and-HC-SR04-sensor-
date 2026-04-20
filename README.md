@@ -16,4 +16,4 @@ The system calculates the time between two detections and computes the speed.
 ![image]([link_of_your_image](https://www.robotique.site/wp-content/uploads/2026/04/Radar-de-vitesse-Arduino.jpg))
 
 ## 🔗 Full Tutorial
-👉 https://robotique.site/robotic-guide
+👉 https://www.robotique.site/tutoriel/projet-arduino-radar-de-vitesse-base-sur-capteur-hc-sr04/
